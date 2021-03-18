@@ -1,1 +1,1 @@
-# Profiles RESAT API
+# Profiles REST API
